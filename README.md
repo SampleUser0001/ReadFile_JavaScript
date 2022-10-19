@@ -6,6 +6,7 @@ JavaScriptでファイル読み込みする。
 ### text
 
 ``` txt
+cd read_csv
 node app.js ${ファイルパス}
 ```
 
